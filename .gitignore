@@ -1,0 +1,39 @@
+# Keil / ARMCC build output
+Objects/
+Listings/
+build.log
+
+# Keil user-local settings
+*.uvguix.*
+*.uvoptx
+DebugConfig/
+
+# Object and intermediate files
+*.o
+*.d
+*.crf
+*.dep
+*.lnp
+*.sct
+*.lst
+*.map
+*.htm
+*.axf
+*.elf
+*.hex
+*.bin
+
+# Backups and temporary files
+*.bak
+*.Bak
+*.bak.txt
+*.tmp
+*.log
+
+# Editor settings
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+Desktop.ini
